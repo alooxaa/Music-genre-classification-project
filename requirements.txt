@@ -1,0 +1,8 @@
+av
+librosa
+soundfile
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib

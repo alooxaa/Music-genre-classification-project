@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
